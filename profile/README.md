@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🎯 Issue Tracker
 
-<!--
+</br>
 
-**Here are some ideas to get you started:**
+## :computer: 팀원
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| <img src="https://avatars.githubusercontent.com/u/142131857?v=4" width=440> | <img src="https://avatars.githubusercontent.com/u/103445254?v=4"> | <img src="https://avatars.githubusercontent.com/u/122335103?v=4"> | <img src="https://avatars.githubusercontent.com/u/96780693?v=4"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|         [상추](https://github.com/parksangchu)         |              [짜왕](https://github.com/zzawang)   |       [본](https://github.com/ryudb0)            |           [우디](https://github.com/minjeongHEO)             |
+피할 수 없으면 즐겨라|일요일은 내가 짜왕 요리사|같이 가!| 가만 놔두면 다 해결 돼...
+
+</br></br>
